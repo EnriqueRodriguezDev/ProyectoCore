@@ -1,0 +1,12 @@
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Persistencia\bin\Debug\net7.0\Persistencia.deps.json
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Persistencia\bin\Debug\net7.0\Persistencia.dll
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Persistencia\bin\Debug\net7.0\Persistencia.pdb
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Persistencia\bin\Debug\net7.0\Dominio.dll
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Persistencia\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Persistencia\obj\Debug\net7.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Persistencia\obj\Debug\net7.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfo.cs
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CopyComplete
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Persistencia\obj\Debug\net7.0\Persistencia.dll
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Persistencia\obj\Debug\net7.0\refint\Persistencia.dll
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Persistencia\obj\Debug\net7.0\Persistencia.pdb
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Persistencia\obj\Debug\net7.0\ref\Persistencia.dll
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Persistencia\bin\Debug\net7.0\Persistencia.runtimeconfig.json
+C:\Users\Enrique_Rodriguez\Cursos\ProyectoCore\Persistencia\obj\Debug\net7.0\Persistencia.genruntimeconfig.cache
