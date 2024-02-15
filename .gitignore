@@ -1,0 +1,32 @@
+# Directorios generados por Visual Studio
+.vs/
+
+# Directorio de salida de compilación
+bin/
+obj/
+
+# Bibliotecas y paquetes NuGet
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.exe.config
+packages/
+
+# Archivos de usuario
+*.user
+*.suo
+*.cache
+
+# Archivos de respaldo de Visual Studio
+*.bak
+*.cache
+*.suo
+*.log
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos de configuración
+*.config
