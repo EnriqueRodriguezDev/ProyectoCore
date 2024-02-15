@@ -4,6 +4,9 @@
 # Directorio de salida de compilación
 bin/
 obj/
+Debug/
+*.props
+*.targets
 
 # Bibliotecas y paquetes NuGet
 *.dll
