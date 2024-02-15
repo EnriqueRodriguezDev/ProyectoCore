@@ -1,52 +1,32 @@
-# Prerequisites
-*.d
+# Directorios generados por Visual Studio
+.vs/
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# Directorio de salida de compilación
+bin/
+obj/
 
-# Linker output
-*.ilk
-*.map
-*.exp
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
+# Bibliotecas y paquetes NuGet
 *.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
 *.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
 *.pdb
+*.dll.config
+*.exe.config
+packages/
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# Archivos de usuario
+*.user
+*.suo
+*.cache
+
+# Archivos de respaldo de Visual Studio
+*.bak
+*.cache
+*.suo
+*.log
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos de configuración
+*.config
