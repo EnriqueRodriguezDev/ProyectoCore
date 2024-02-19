@@ -9,9 +9,15 @@ using Persistencia;
 
 var builder = WebApplication.CreateBuilder(args);
 
+string connectionMode = "DefaultConnection";
+bool environmentMac = true;
+
 //Add context created
 builder.Services.AddDbContext<CursosOnlineContext>(options => {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+    if (environmentMac){
+        connectionMode = "onMacConnection";
+    };
+    options.UseSqlServer(builder.Configuration.GetConnectionString(connectionMode));
 });
 
 //add mediator
